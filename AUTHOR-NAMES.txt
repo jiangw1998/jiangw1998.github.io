@@ -1,0 +1,109 @@
+论文作者全名核对
+
+原有论文逐篇展开姓名缩写；本次更新及新增的四篇预印本，题目与作者次序按 2026-10-02 核对的 arXiv 最新版本记录。
+注意：AAAI 2024 的 B. Wang 是 Bing Wang；ICML 2022 的 B. Wang 是 Bokun Wang。
+《软件学报》作者名使用与其其他英文论文一致的拼写。
+
+Better Convergence Guarantees for Sign-Based Momentum Methods
+Wei Jiang, Dingzhi Yu, Sifan Yang, Wenhao Yang, Zechao Li, Lijun Zhang
+依据：https://arxiv.org/abs/2507.12091v2 （2026-10-01 更新的标题及作者次序）
+
+Non-Stationary Projection-Free Online Learning with Dynamic Regret Guarantees
+Yibo Wang, Haomin Bai, Wei Jiang, Wenhao Yang, Yuanyu Wan, Lijun Zhang
+依据：原主页作者次序；Haomin Bai 由用户确认；其余作者的全名见共同作者的论文
+
+Dual Adaptivity: Universal Algorithms for Minimizing the Adaptive Regret of Convex Functions
+Lijun Zhang, Wenhao Yang, Guanghui Wang, Wei Jiang, Zhi-Hua Zhou
+依据：https://arxiv.org/abs/2508.00392
+
+Optimizing Unnormalized Statistical Models through Compositional Optimization
+Wei Jiang, Jiayu Qin, Lingyu Wu, Changyou Chen, Tianbao Yang, Lijun Zhang
+依据：./pdf/TPAMI-2026-Jiang.pdf，论文首页作者栏
+
+Revisiting Stochastic Multi-Level Compositional Optimization
+Wei Jiang, Sifan Yang, Yibo Wang, Tianbao Yang, Lijun Zhang
+依据：./pdf/TPAMI-2025-Jiang.pdf，论文首页作者栏
+
+Normalized Adaptive Variance Reduction Method
+Wei Jiang, Sifan Yang, Yibo Wang, Lijun Zhang
+依据：./pdf/Software-Jiang.pdf，论文首页作者栏
+
+Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings
+Wei Jiang, Mao Xu, Wenhao Yang, Yibo Wang, Zechao Li, Lijun Zhang
+依据：https://proceedings.mlr.press/v306/jiang26ax.html ; https://www.lamda.nju.edu.cn/wangyb/
+
+Mirror Descent Under Generalized Smoothness
+Dingzhi Yu, Wei Jiang, Hongyi Tao, Yuanyu Wan, Lijun Zhang
+依据：https://arxiv.org/abs/2502.00753
+
+Distributed Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower bounds
+Sifan Yang, Wenhao Yang, Wei Jiang, Lijun Zhang
+依据：https://arxiv.org/abs/2601.04907
+
+Smoothed Online Convex Optimization with Delayed Feedback
+Sifan Yang, Wenhao Yang, Wei Jiang, Yuanyu Wan, Lijun Zhang
+依据：./pdf/IJCAI-2025-Yang.pdf，论文首页作者栏
+
+Adaptive Variance Reduction for Stochastic Optimization under Weaker Assumptions
+Wei Jiang, Sifan Yang, Yibo Wang, Lijun Zhang
+依据：./pdf/NeurIPS-2024-Jiang-A.pdf，论文首页作者栏
+
+Efficient Sign-Based Optimization: Accelerating Convergence via Variance Reduction
+Wei Jiang, Sifan Yang, Wenhao Yang, Lijun Zhang
+依据：./pdf/NeurIPS-2024-Jiang-B.pdf，论文首页作者栏
+
+Online Composite Optimization Between Stochastic and Adversarial Environments
+Yibo Wang, Sijia Chen, Wei Jiang, Wenhao Yang, Yuanyu Wan, Lijun Zhang
+依据：./pdf/NeurIPS-2024-Wang.pdf，论文首页作者栏
+
+Projection-Free Variance Reduction Methods for Stochastic Constrained Multi-Level Compositional Optimization
+Wei Jiang, Sifan Yang, Wenhao Yang, Yibo Wang, Yuanyu Wan, Lijun Zhang
+依据：./pdf/ICML-2024-Jiang.pdf，论文首页作者栏
+
+Small-loss Adaptive Regret for Online Convex Optimization
+Wenhao Yang, Wei Jiang, Yibo Wang, Ping Yang, Yao Hu, Lijun Zhang
+依据：./pdf/ICML-2024-Yang.pdf，论文首页作者栏
+
+Efficient Algorithms for Empirical Group Distributionally Robust Optimization and Beyond
+Dingzhi Yu, Yunuo Cai, Wei Jiang, Lijun Zhang
+依据：./pdf/ICML-2024-Yu.pdf，论文首页作者栏
+
+Non-stationary Projection-free Online Learning with Dynamic and Adaptive Regret Guarantees
+Yibo Wang, Wenhao Yang, Wei Jiang, Shiyin Lu, Bing Wang, Haihong Tang, Yuanyu Wan, Lijun Zhang
+依据：./pdf/AAAI-2024-Wang.pdf，论文首页作者栏
+
+Learning Unnormalized Statistical Models via Compositional Optimization
+Wei Jiang, Jiayu Qin, Lingyu Wu, Changyou Chen, Tianbao Yang, Lijun Zhang
+依据：./pdf/ICML-2023-Jiang.pdf，论文首页作者栏
+
+Multi-block-Single-probe Variance Reduced Estimator for Coupled Compositional Optimization
+Wei Jiang, Gang Li, Yibo Wang, Lijun Zhang, Tianbao Yang
+依据：./pdf/NeurIPS-2022-Jiang.pdf，论文首页作者栏
+
+Smoothed Online Convex Optimization Based on Discounted-Normal-Predictor
+Lijun Zhang, Wei Jiang, Jinfeng Yi, Tianbao Yang
+依据：./pdf/NeurIPS-2022-Zhang.pdf，论文首页作者栏
+
+Optimal Algorithms for Stochastic Multi-Level Compositional Optimization
+Wei Jiang, Bokun Wang, Yibo Wang, Lijun Zhang, Tianbao Yang
+依据：./pdf/ICML-2022-Jiang.pdf，论文首页作者栏
+
+Revisiting Smoothed Online Learning
+Lijun Zhang, Wei Jiang, Shiyin Lu, Tianbao Yang
+依据：./pdf/NeurIPS-2021-Zhang-A.pdf，论文首页作者栏
+
+Dual Adaptivity: A Universal Algorithm for Minimizing the Adaptive Regret of Convex Functions
+Lijun Zhang, Guanghui Wang, Wei-Wei Tu, Wei Jiang, Zhi-Hua Zhou
+依据：./pdf/NeurIPS-2021-Zhang-B.pdf，论文首页作者栏
+
+Optimal Momentum Methods for Stochastic Multilevel Compositional Optimization
+Wei Jiang, Rui Yan, Sifan Yang, Yuanyu Wan, Lijun Zhang, Zechao Li
+依据：https://arxiv.org/abs/2610.01572v1
+
+Convergence Analysis of STORM Under Different Geometries
+Wei Jiang, Yibo Wang, Wenhao Yang, Rui Yan, Lijun Zhang, Zechao Li
+依据：https://arxiv.org/abs/2610.01599v1
+
+Revisiting Distributed Sign-Based Variance Reduction
+Wei Jiang, Zechao Li, Lijun Zhang
+依据：https://arxiv.org/abs/2609.18656v1
